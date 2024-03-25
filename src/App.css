@@ -1,0 +1,36 @@
+*{
+  font-family: "Nunito", sans-serif;
+  font-optical-sizing: auto;
+  font-weight:weight;
+  font-style: normal;
+  
+}
+
+
+
+.edu,.about {
+  font-size: 20px;
+  margin-bottom: 5px;
+}
+
+.head:hover{
+text-shadow: 2px 4px 6px;
+}
+
+.cont{
+  position: relative;
+}
+
+.imgTxt{
+  position: absolute;
+  top:20px;
+  padding-left: 10px;
+}
+
+ul {
+  list-style-type: none; /* Remove default bullet points */
+}
+.immm{
+  border-radius: 50%;
+  
+}
